@@ -1,6 +1,6 @@
 The collection of reference in the course "Ideological and Moral Cultivation and Legal Basis" in Chinese universities.
 
-《思想道德修养与法律基础》（2015年修订版）每章后的阅读文献汇总，主要是单篇的文章，除了有些中央决议等篇幅都不太长。
+《思想道德修养与法律基础》（2015年修订版）每章后的阅读文献汇总，主要是单篇的文章，除了有些中央决议等篇幅都不太长，当然也有几篇超级长。。。
 
 收录的文章按照作者分类，实际上作者只有马克思、毛泽东、邓小平、江泽民、胡锦涛、习近平、爱因斯坦，以及中共中央、中国政府。顺便一提，习近平的文章收入最多。。。
 

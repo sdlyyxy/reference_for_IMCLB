@@ -11,4 +11,4 @@ for root, dirs, files in os.walk(_root):
             for mdfile in mdfiles:
                 if mdfile == '.DS_Store':
                     continue
-                print "\t* [%s](%s)" % (mdfile[:-3], os.path.join(_root_, mdfile).replace(_root,''))
+                print "\t* [%s](%s)" % (mdfile[:-3], os.path.join(_root_, mdfile).replace(_root, ''))
